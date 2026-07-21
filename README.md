@@ -1,5 +1,5 @@
 # airflow-data-quality-pipeline
-<<<<<<< HEAD
+
 
 ## Overview
 
