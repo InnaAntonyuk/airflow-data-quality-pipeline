@@ -1,4 +1,5 @@
 # airflow-data-quality-pipeline
+<<<<<<< HEAD
 
 ## Overview
 
@@ -83,3 +84,6 @@ README.md
 ## Author
 
 Inna Antoniuk
+=======
+Apache Airflow ETL pipeline for automated flight data quality validation and Slack reporting
+>>>>>>> 9d3af72d47f3eb47f57df63ed02bbc646359f961
